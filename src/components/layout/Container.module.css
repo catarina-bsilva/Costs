@@ -1,0 +1,23 @@
+.Container{
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+
+
+.MinHeight {
+    min-height: 75%;
+}
+
+.Start {
+    justify-content: flex-start;
+}
+
+.Column {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+

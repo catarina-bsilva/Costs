@@ -1,0 +1,9 @@
+.ProjectContainer{
+    padding: 2em;
+}
+
+.TitleContainer{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2em;
+}
